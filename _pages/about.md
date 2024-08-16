@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/SpencerPao'>Code</a> <a href='https://www.youtube.com/c/SpencerPaoHere'>Chill</a> <b> Imagine </b>
+subtitle: 
 
 profile:
   align: right
