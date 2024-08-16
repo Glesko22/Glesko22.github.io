@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of nifty projects
+description: A collection of personal projects
 nav: true
 display_categories: [fun]
 horizontal: false

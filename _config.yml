@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Gavin 
 middle_name:
 last_name: Lesko
-email: business.inquiry.spao@gmail.com
+email: leskog@rpi.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -57,7 +57,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: Glesko22 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: spencerpao # your LinkedIn user name
+linkedin_username: gavin-lesko # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -84,7 +84,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: Posts  # your blog must have a name for it to show up in the nav bar
-blog_description: Just my thoughts
+blog_description: Will be changed and updated in future
 permalink: /blog/:year/:title/
 
 # Pagination
